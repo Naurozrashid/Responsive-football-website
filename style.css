@@ -181,3 +181,26 @@ half-width{
     height: 309px;
     padding-left: 150px;
 }
+/* footer  */
+#footer-icon{
+    margin-top: 158px;
+    margin-bottom: 63px;
+  }
+  .footer-logo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }
+  
+  .footer-logo .logo img {
+    width: 483.87px;
+    height: 110px;
+  }
+  
+  .icon {
+    display: inline;
+    font-size: 40px;
+    color: #969bab;
+    margin-right: 14px;
+  }
